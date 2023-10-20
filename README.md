@@ -7,6 +7,9 @@ To request a new feature, please check the [Discussions tab](https://github.com/
 ### Bug Reports
 If you'd like to report a bug or issue with the website, please check the [Issues tab](https://github.com/Sheezy-Art/hub/issues) to see if it has been reported already. If not, feel free to [open a new Issue](https://github.com/Sheezy-Art/hub/issues/new?assignees=&labels=bug&projects=&template=bug-report.md&title=%5BBUG%5D+Bug+Description...).
 
+### Documentation Updates
+Over time, the [Wiki](https://github.com/Sheezy-Art/hub/wiki) will be updated with instructions on how to use various aspects of the site. If you'd like to add to the wiki, or make any changes, feel free to open a new [Documentation Update Issue](https://github.com/Sheezy-Art/hub/issues/new?assignees=&labels=documentation&projects=&template=documentation-update.md&title=%5BDOCS%5D+Documentation+Update...).
+
 ---
 
 ### Terms, Rules & Mission Statement
