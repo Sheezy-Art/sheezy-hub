@@ -8,7 +8,7 @@
 
 Put simply; if you wish to use this website you must conform to the rules stated on the [rules page](https://sheezy.art/page/rules). Failure to do so may result in our prevention of your access to the site and any assets hosted therein.
 
-By continuing to access and use the **Sheezy.Art** website, via any of its current domain names (**sheezy.art**, **sheezy.bog** and **sheezy.dev**), you agree that you will follow the [rules](https://sheezy.art/page/rules) and agree to the following stipulations:
+By continuing to access and use the **Sheezy.Art** website, via any of its current domain names (**sheezy.art**, **sheezy.blog** and **sheezy.dev**), you agree that you will follow the [rules](https://sheezy.art/page/rules) and agree to the following stipulations:
 
 ### Terms
 
