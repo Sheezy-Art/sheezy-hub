@@ -14,7 +14,7 @@ As a member of Sheezy.Art, you are required to abide by the following rules. Bre
 - You **must not** post anything that instigates bullying or harassment against other users. Callouts, witch hunts, etc are **strictly not allowed**.
 - You **must not** impersonate another user or person, account or company, or user's character(s) without consent to do so.
 - You **must not** upload artwork that has been traced or not made by you without permission from the original artist(s).
-- You will be held **fully responsible** for anything you say or do while posing as a character using the Active Character feature.
+- You will be held **fully responsible** for anything you say or do while posing as a character using the Personas feature.
 
 While staff does not monitor user behavior outside of Sheezy.Art, third party reports brought to our attention of users who create or take part in ethically questionable or illegal content or activity outside of the site or Discord will be investigated and acted upon appropriately at staff discretion.
 
@@ -73,7 +73,7 @@ As a general rule, if you are unsure if the content you are submitting belongs i
 
 ### Tagging Policy
 
-Sheezy.Art currently uses a tagging feature that allows users to search for specific content they want to find, and also blacklist tags to avoid being exposed to triggering content or content they just don’t want to see. There is no limit to how many tags you can add to a submission, but all submissions require at least **three** tags.
+Sheezy.Art currently uses a tagging feature that allows users to search for specific content they want to find, and also block tags to avoid being exposed to triggering content or content they just don’t want to see. There is no limit to how many tags you can add to a submission, but all submissions require at least **three** tags.
 
 As such, we ask that the following content always be tagged appropriately with these tags:
 
