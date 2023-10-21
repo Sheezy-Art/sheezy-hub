@@ -42,7 +42,7 @@ All content uploaded by you to Sheezy.Art must be made by you, the artist, using
 
 Content created through the use of services such as Doll Divine, Hero Forge, Picrew, or created with generative AI, for example using data sets such as ArtBreeder, ChatGPT, CrAIyon, Dall-e etc. are **not permitted** on Sheezy.Art. Content found to be generated using such tools will be removed, and its author(s) found subject to further moderation and potential site restriction at administrative or moderator discretion.
 
-Sheezy.Art may not be used to host NFTs or stock assets - that is, media created with the express purpose of wholesale or trade.
+Sheezy.Art may not be used to host NFTs or wholesale stock assets.
 
 ### Liability
 
