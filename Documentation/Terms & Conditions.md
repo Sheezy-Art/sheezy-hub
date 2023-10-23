@@ -70,8 +70,6 @@ The only personal information we require from you is your email address, which i
 
 When you create an account on Sheezy.Art, the password you provide is sent to our server over SSL whereupon it is encrypted and hashed for storage. This means that, even in the event of a data breach, your password would be incomprehensible and impossible to decrypt.
 
-**We do not store your IP address or browser information.**
-
 Though we will do our utmost to prevent it from happening, in the event of a data breach you will be notified by email within 24 hours of the discovery of said breach and our hosting provider will also be notified.
 
 Note that any inactive accounts that do not contain any content will be removed after 120 consecutive days of inactivity. Unverified accounts will be removed after 30 days of inactivity following a series of activation reminder emails.
