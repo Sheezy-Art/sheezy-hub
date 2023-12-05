@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**Describe the bug**
+**Describe the Bug**
 A clear and concise description of what the bug is.
 
 **To Reproduce**
@@ -17,14 +17,14 @@ Steps to reproduce the behavior:
 3. Scroll down to '....'
 4. See error
 
-**Expected behavior**
+**Expected Behaviour**
 A clear and concise description of what you expected to happen.
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Device (please complete the following information):**
-- Type: [e.g. Desktop PC, Laptop, Tablet, Smartphone]
- - OS: [e.g. iOS]
- - Browser: [e.g. chrome, safari]
+**Device**
+- Type: [e.g. Desktop PC, Tablet, Smartphone]
+ - OS: [e.g. Windows, iOS]
+ - Browser: [e.g. Google Chrome, Safari, Opera]
  - Version: [e.g. 22]
