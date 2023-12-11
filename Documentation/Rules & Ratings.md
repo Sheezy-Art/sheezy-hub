@@ -47,7 +47,7 @@ As a general rule, if you are unsure if the content you are submitting belongs i
 - **May contain** revealing or minimal clothing, provided the content does not fall under the requirements for the Adult or Explicit tiers.
 - **May contain** characters with greatly exaggerated features of the chest (non-detailed fully developed breasts, abdominal muscles, pectoral muscles), provided the features do not meet the requirements for the Adult or Explicit tiers.
 
-**Adule**: This tier is **not** appropriate content for minors, and includes topics and themes that are adult-oriented, but not Explicit in nature.
+**Adult**: This tier is **not** appropriate content for minors, and includes topics and themes that are adult-oriented, but not Explicit in nature.
 
 - **May contain** depictions of partial or full nudity, exposed or prominent nipples on fully developed breasts, or the outline/suggestion of genitalia through clothing.
 - **May contain** depictions of active consumption of alcohol and/or hard drugs
