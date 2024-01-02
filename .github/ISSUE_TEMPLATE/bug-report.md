@@ -3,7 +3,7 @@ name: Bug Report
 about: Report an issue with the site
 title: "[BUG] Bug Description..."
 labels: bug
-assignees: ''
+assignees: 'boylett'
 
 ---
 
