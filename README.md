@@ -2,7 +2,9 @@
 Public repo to discuss issues and feature requests.
 
 ### Feature Requests
-To request a new feature, please check the [Discussions tab](https://github.com/Sheezy-Art/sheezy-hub/discussions/categories/feature-requests) to see if it has been requested already - you can vote for features using Emoji Reactions. To open a new feature request, [create a new Discussion post](https://github.com/Sheezy-Art/sheezy-hub/discussions/new?category=feature-requests).
+*We are not currently taking feature requests.*
+
+~~To request a new feature, please check the [Discussions tab](https://github.com/Sheezy-Art/sheezy-hub/discussions/categories/feature-requests) to see if it has been requested already - you can vote for features using Emoji Reactions. To open a new feature request, [create a new Discussion post](https://github.com/Sheezy-Art/sheezy-hub/discussions/new?category=feature-requests).~~
 
 ### Bug Reports
 If you'd like to report a bug or issue with the website, please check the [Issues tab](https://github.com/Sheezy-Art/sheezy-hub/issues) to see if it has been reported already. If not, feel free to [open a new Issue](https://github.com/Sheezy-Art/sheezy-hub/issues/new?assignees=&labels=bug&projects=&template=bug-report.md&title=%5BBUG%5D+Bug+Description...).
