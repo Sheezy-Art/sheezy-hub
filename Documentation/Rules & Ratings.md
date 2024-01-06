@@ -12,7 +12,7 @@ As a member of Sheezy.Art, you are required to abide by the following rules. Bre
 - You **must be** at least 18 years old to post or interact with content in the Adult and Explicit categories.
 - You **must** correctly categorise and tag any mature or potentially triggering artwork. Be sure to read our [ratings guide](#ratings-guide) first.
 - You **must not** post anything that instigates bullying or harassment against other users. Callouts, witch hunts, etc are **strictly not allowed**.
-- You **must not** Impersonate another user or person, account or company, or user's character(s) without consent to do so.
+- You **must not** impersonate another user or person, account or company, or user's character(s) without consent to do so.
 - You **must not** upload artwork that has been traced or not made by you without permission from the original artist(s).
 - You will be held **fully responsible** for anything you say or do while posing as a character using the Personas feature.
 
