@@ -54,7 +54,7 @@ As a general rule, if you are unsure if the content you are submitting belongs i
 
 - **May contain** depictions of partial or full nudity, exposed or prominent nipples on fully developed breasts, or the outline/suggestion of genitalia through clothing.
 - **May contain** depictions of active consumption of alcohol and/or hard drugs
-- **May contain** highly suggestive sexual content, such as pin-ups or sexual references that do not meet the requirements for the Explicit tier.
+- **May contain** highly suggestive sexual content, such as explicit pin-ups or sexual references that do not meet the requirements for the Explicit tier.
 - **May contain** depictions of gore and violence such as murder, so long as it does not meet the requirements for the Explicit tier.
 
 **Explicit**: This tier is **not** appropriate for minors, and is reserved for graphic sexual or violent content.
