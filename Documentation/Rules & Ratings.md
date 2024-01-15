@@ -147,15 +147,15 @@ required and recommended content tags.
 
 Users **must not** post content depicting medicinal drug abuse (review
 the above definition of substance abuse).
->
+
 In summary, users **can** post content that contains the use of
 tobacco products as well as alcohol consumption that does not cause
 the character to become drunk.
->
+
 Users **can** also post content that contains the use of medicinal
 drugs for their intended purposes as health aids. Medical drug abuse
 is **not** allowed and must be rated Mature.
->
+
 Users **cannot** post content that contains the presence or
 consumption of recreational drugs including but not limited to:
 recreational marijuana, methamphetamines, LSD, and others.
@@ -293,13 +293,13 @@ tags.
     non-consensual context or setting. Non-consent can look like, but is
     not limited to:
 
-    -   Character is depicted in clear distress
+-   Character is depicted in clear distress
 
-    -   Character has expressed disinterest or refused advances
+-   Character has expressed disinterest or refused advances
 
-    -   Character is asleep, knocked out, or otherwise unconscious.
+-   Character is asleep, knocked out, or otherwise unconscious.
 
-    -   Character is unable to speak, sign, or provide an affirmative
+-   Character is unable to speak, sign, or provide an affirmative
 
 If content does not depict or otherwise imply consent, or if it
 displays behaviour that denotes non-consent, we will not host it on
