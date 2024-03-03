@@ -7,14 +7,17 @@ assignees: 'boylett'
 
 ---
 
-**Describe the Bug**
-A clear and concise description of what the bug is.
+### Important:
+Before reporting an issue, please check that you have all UserScripts and Browser Extensions **disabled** and that your issue still happens. **We cannot prioritise debugging errors that happen when using third-party code.**
+
+**Describe the Issue**
+A clear and concise description of what the issue is.
 
 **To Reproduce**
 Steps to reproduce the behavior:
 1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
+2. Click on '...'
+3. Scroll down to '...'
 4. See error
 
 **Expected Behaviour**
@@ -25,6 +28,6 @@ If applicable, add screenshots to help explain your problem.
 
 **Device**
 - Type: [e.g. Desktop PC, Tablet, Smartphone]
- - OS: [e.g. Windows, iOS]
- - Browser: [e.g. Google Chrome, Safari, Opera]
- - Version: [e.g. 22]
+- OS: [e.g. Windows, iOS]
+- Browser: [e.g. Google Chrome, Safari, Opera]
+- Version: [e.g. 22]
