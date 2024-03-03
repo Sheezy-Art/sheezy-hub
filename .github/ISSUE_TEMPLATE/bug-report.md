@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Report an issue with the site. **IMPORTANT:** Before reporting, check that you have UserScripts and Browser Extensions **disabled**.
+about: Report an issue with the site. IMPORTANT: Before reporting, check that you have UserScripts and Browser Extensions DISABLED.
 title: "[BUG] Bug Description..."
 labels: bug
 assignees: 'boylett'
