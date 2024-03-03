@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Report an issue with the site. **IMPORTANT:** Before reporting, check that you have UserScripts and Browser Extensions **disabled. We cannot prioritise debugging errors that happen when using third-party code.**
+about: Report an issue with the site. **IMPORTANT:** Before reporting, check that you have UserScripts and Browser Extensions **disabled**.
 title: "[BUG] Bug Description..."
 labels: bug
 assignees: 'boylett'
