@@ -1,14 +1,11 @@
 ---
 name: Bug Report
-about: Report an issue with the site
+about: Report an issue with the site. **IMPORTANT:** Before reporting an issue, please check that you have all UserScripts and Browser Extensions **disabled** and that your issue still happens. **We cannot prioritise debugging errors that happen when using third-party code.**
 title: "[BUG] Bug Description..."
 labels: bug
 assignees: 'boylett'
 
 ---
-
-### Important:
-Before reporting an issue, please check that you have all UserScripts and Browser Extensions **disabled** and that your issue still happens. **We cannot prioritise debugging errors that happen when using third-party code.**
 
 **Describe the Issue**
 A clear and concise description of what the issue is.
