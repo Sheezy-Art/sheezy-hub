@@ -1,5 +1,5 @@
-# Sheezy.Art Community Repo
-Public repo to discuss issues and features.
+# Sheezy Hub
+Public community repository to discuss issues and features.
 
 ### Feature Requests
 In this early development stage, we're only accepting suggestions from staff. However, you're more than welcome to discuss the site's functionality in our [Discord server](https://discord.gg/3fKDMFNM3h).
