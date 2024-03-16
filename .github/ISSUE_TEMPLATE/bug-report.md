@@ -11,7 +11,7 @@ assignees: 'boylett'
 A clear and concise description of what the issue is.
 
 **To Reproduce**
-Steps to reproduce the behavior:
+Steps to reproduce the behaviour:
 1. Go to '...'
 2. Click on '...'
 3. Scroll down to '...'
