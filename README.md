@@ -1,6 +1,12 @@
 # Sheezy Hub
 Public community repository to discuss issues and features.
 
+---
+
+### [Click to view the latest changelogs](https://github.com/Sheezy-Art/sheezy-hub/releases)
+
+---
+
 ### Feature Requests
 In this early development stage, we're only accepting suggestions from staff. However, you're more than welcome to discuss the site's functionality in our [Discord server](https://discord.gg/3fKDMFNM3h).
 
