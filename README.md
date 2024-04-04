@@ -8,7 +8,7 @@ Public community repository to discuss issues and features.
 ---
 
 ### Feature Requests
-In this early development stage, we're only accepting suggestions from staff. However, you're more than welcome to discuss the site's functionality in our [Discord server](https://discord.gg/3fKDMFNM3h).
+In this early development stage, we aren't accepting suggestions. However, you're more than welcome to discuss the site's functionality in our [Discord server](https://discord.gg/3fKDMFNM3h).
 
 ### Issues & Bug Reports
 If you'd like to report an issue with the website, please check the [Issues tab](https://github.com/Sheezy-Art/sheezy-hub/issues) to see if it has been reported already. If not, feel free to [open a new Issue](https://github.com/Sheezy-Art/sheezy-hub/issues/new?assignees=&labels=bug&projects=&template=bug-report.md&title=%5BBUG%5D+Bug+Description...).
