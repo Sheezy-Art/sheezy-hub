@@ -21,7 +21,7 @@ Over time, the [Wiki](https://github.com/Sheezy-Art/sheezy-hub/wiki) will be upd
 
 ---
 
-### Terms, Rules & Mission Statement
+### Terms, Rules, Mission Statement & FAQs
 - [Terms & Conditions](https://sheezy.art/terms)
 - [Rules & Ratings](https://sheezy.art/rules)
 - [Mission Statement & Frequently Asked Questions](https://sheezy.art/faqs)
