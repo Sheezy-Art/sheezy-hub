@@ -1,5 +1,5 @@
 # Sheezy Hub
-Public community repository to discuss issues and features.
+Public community repository to report bugs and request Wiki changes
 
 ---
 
