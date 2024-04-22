@@ -1,5 +1,5 @@
 # Sheezy Hub
-Public community repository to report bugs and request Wiki changes
+Public community repository for [issue tracking](https://github.com/Sheezy-Art/sheezy-hub/issues) and [documentation](https://github.com/Sheezy-Art/sheezy-hub/wiki)
 
 ---
 
