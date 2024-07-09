@@ -1,10 +1,9 @@
 ---
-name: Bug Report
-about: Report an issue with the site. IMPORTANT - Before reporting, check that you have UserScripts and Browser Extensions DISABLED.
+name: "Bug Report"
+about: "Report an issue with the site. **IMPORTANT - Before reporting, check that you have UserScripts and Browser Extensions DISABLED.**"
 title: "[BUG] Bug Description..."
-labels: bug
-assignees: 'boylett'
-
+labels: "bug"
+assignees: "boylett"
 ---
 
 **Describe the Issue**
@@ -21,10 +20,10 @@ Steps to reproduce the behaviour:
 A clear and concise description of what you expected to happen.
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+If applicable, add screenshots or a video to help explain your problem.
 
 **Device**
-- Type: [e.g. Desktop PC, Tablet, Smartphone]
+- Type: [e.g. Desktop, Laptop, Tablet, Smartphone]
 - OS: [e.g. Windows, iOS]
-- Browser: [e.g. Google Chrome, Safari, Opera]
-- Version: [e.g. 22]
+- Browser: [e.g. Chrome, Safari, Firefox]
+- Browser Version: [e.g. 127]
