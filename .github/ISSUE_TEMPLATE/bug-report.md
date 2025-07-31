@@ -19,11 +19,11 @@ Steps to reproduce the behaviour:
 **Expected Behaviour**
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
+**Screenshots / Video**
 If applicable, add screenshots or a video to help explain your problem.
 
 **Device**
-- Type: [e.g. Desktop, Laptop, Tablet, Smartphone]
-- OS: [e.g. Windows, iOS]
-- Browser: [e.g. Chrome, Safari, Firefox]
-- Browser Version: [e.g. 127]
+- Type: [e.g. Computer, Phone, Tablet]
+- OS: [e.g. Windows, Mac, Linux, iOS, Android]
+- Browser: [e.g. Chrome, Firefox, Safari]
+- Browser Version: [e.g. 140]
